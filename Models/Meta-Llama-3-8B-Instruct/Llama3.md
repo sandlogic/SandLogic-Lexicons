@@ -22,6 +22,6 @@ Original Model link - [Meta-Llama-3-8B-Instruct](https://huggingface.co/meta-lla
 
 | Model                | Quantization Type | Original Size | Quantized Size | Winogrande Score | HellaSwag Score | Winogrande Official Score (Raw model) |
 |----------------------|-------------------|---------------|----------------|------------------|-----------------|---------------------------------------|
-| Llama3-8b-instruct   | Q5_KM             | 16 GB         | 5.73 GB        | 71.18            | 75.75           | 76.1                                  |
-| Llama3-8b-instruct   | IQ4_XS            | 16 GB         | 4.45 GB        | 73.45            | 70.75           | 76.1                                  |
-| Llama3-8b-instruct   | Q4_KM             | 16 GB         | 4.92 GB        | 71.11            | 74.5            | 76.1                                  |
+| Llama3-8b-instruct   | Q5_KM             | 16 GB         | 5.73 GB        | 71.18            | 75.75           |             76.1                                  |
+| Llama3-8b-instruct   | IQ4_XS            | 16 GB         | 4.45 GB        | 73.45            | 70.75           |             76.1                                  |
+| Llama3-8b-instruct   | Q4_KM             | 16 GB         | 4.92 GB        | 71.11            | 74.5            |             76.1                                  |
