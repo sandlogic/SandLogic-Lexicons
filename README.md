@@ -48,7 +48,7 @@ To learn more about our benchmark evaluation processes and results, check out ou
 
 To know about the models considered for quantization you can click on the below link -
 1. [Meta-Llama-3-8B-Instruct](Models/Meta-Llama-3-8B-Instruct/Llama3.md)
-2. [Phi-3-mini-4k-instruct](Models/Phi-3.1-mini-4k-instruct/Phi-3.1.md)
+2. [Phi-3-mini-4k-instruct](Models/Phi-3.1-mini-4k-instruct/Phi3.1.md)
 3. [Gemma-2-9b-it](Models/Gemma-2-9b-it/Gemma.md)
 4. [Nxcode-CQ-7B-orpo](Models/Nxcode-CQ-7B-orpo/Nxcode.md)
 5. [Llama3-Med42-8B](Models/Llama3-Med42-8B/Llama3Med42.md)
