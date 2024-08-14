@@ -1,15 +1,15 @@
-# SandLogic Lexicon
+# SandLogic Lexicons
 
-Welcome to the SandLogic Lexicon, your premier destination for optimized Large Language Models (LLMs) ready for immediate deployment across a variety of hardware platforms. Our repository is designed to bridge the gap between cutting-edge AI research and practical, real-world applications.
+Welcome to the SandLogic Lexicons, your premier destination for optimized Large Language Models (LLMs) ready for immediate deployment across a variety of hardware platforms. Our repository is designed to bridge the gap between cutting-edge AI research and practical, real-world applications.
 
 ## Overview
 
-The SandLogic Lexicon houses a comprehensive collection of pre-trained and fine-tuned LLMs, meticulously optimized for superior performance and efficiency. Our models are engineered to run seamlessly on both GPU and CPU architectures, democratizing access to advanced natural language processing capabilities. Our aim is to facilitate the spread and usage of Large Language Models (LLM) among a wider audience of developers, researchers, and enthusiasts. 
+The SandLogic Lexicons houses a comprehensive collection of pre-trained and fine-tuned LLMs, meticulously optimized for superior performance and efficiency. Our models are engineered to run seamlessly on both GPU and CPU architectures, democratizing access to advanced natural language processing capabilities. Our aim is to facilitate the spread and usage of Large Language Models (LLM) among a wider audience of developers, researchers, and enthusiasts. 
 ## Key Features
 
 ### 1. Optimized Performance
 
-All models in our Lexicon  undergo rigorous optimization processes to ensure peak performance across diverse hardware configurations. Whether you're running on high-end GPUs or commodity CPUs, our models deliver exceptional results without compromising on efficiency.
+All models in our Lexicons  undergo rigorous optimization processes to ensure peak performance across diverse hardware configurations. Whether you're running on high-end GPUs or commodity CPUs, our models deliver exceptional results without compromising on efficiency.
 
 ### 2. Advanced Quantization Techniques
 
@@ -22,7 +22,7 @@ These quantization approaches allow for deploying powerful models on resource-co
 
 ### 3. Benchmark-Validated Performance
 
-Each model in our Lexicon  is rigorously evaluated on standard industry benchmarks, including:
+Each model in our Lexicons  is rigorously evaluated on standard industry benchmarks, including:
 
 - HellaSwag: A challenging commonsense reasoning task that tests a model's ability to complete scenarios with plausible endings.
 
@@ -86,7 +86,7 @@ Our Model Zoo supports efficient inference using the `llama-cpp-python` package.
 For detailed instructions on installation, usage examples, and advanced configurations, please refer to our [Inference Guide](Scripts/Inference.md).
 ## License
 
-This repository and all its contents are licensed under the [MIT License](https://opensource.org/licenses/MIT). By using the SandLogic Lexicon, you agree to the terms and conditions of this license. 
+This repository and all its contents are licensed under the [MIT License](https://opensource.org/licenses/MIT). By using the SandLogic Lexicons, you agree to the terms and conditions of this license. 
  
 ``` 
 MIT License 
