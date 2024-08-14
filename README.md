@@ -125,3 +125,8 @@ We would like to express our gratitude to the following projects and organizatio
 Further acknowledgments can be found in the [ACKNOWLEDGMENTS](Acknowledgements.md) file.
 
 These projects have been instrumental in our work, and we are thankful for their contributions to the open-source AI community.
+
+## Citation
+If you use this repository in your research or projects, please cite it as follows:
+
+**SandLogic-Lexicon**. (2024). _SandLogic-Lexicon GitHub Repository_. Retrieved from [https://www.sandlogic.com/](https://www.sandlogic.com/)
