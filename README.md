@@ -128,5 +128,5 @@ These projects have been instrumental in our work, and we are thankful for their
 
 ## Citation
 If you use this repository in your research or projects, please cite it as follows:
-
-`**SandLogic-Lexicon**. (2024). _SandLogic-Lexicon GitHub Repository_. Retrieved from [https://www.sandlogic.com/](https://www.sandlogic.com/)`
+```bash
+**SandLogic-Lexicon**. (2024). _SandLogic-Lexicon GitHub Repository_. Retrieved from [https://www.sandlogic.com/](https://www.sandlogic.com/) ```
