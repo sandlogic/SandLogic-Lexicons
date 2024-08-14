@@ -54,6 +54,11 @@ To know about the models considered for quantization you can click on the below 
 5. [Llama3-Med42-8B](Models/Llama3-Med42-8B/Llama3Med42.md)
 6. [Llama3-Hindi-8B](Models/LLama3-Gaja-Hindi-8B/GajaHindi.md)
 
+## Model Performance Comparison
+![Model Performance Comparison](Images/model_performance_comparison.png)
+
+This  graph provides a comparative analysis of model performance across different metrics, including raw and optimized inference times, as well as token generation rates. The inference was conducted on a Tesla T4 GPU with the task of generating 600 tokens for a storytelling application. The bar graph highlights the efficiency improvements and token generation capabilities of each model, offering valuable insights into their relative performance.
+
 ## Models 
 
 
@@ -77,10 +82,7 @@ This document provides a comparison of various quantized models, detailing their
 | Llama3-Hindi-8B          | [Click here](https://sandlogic0-my.sharepoint.com/:u:/g/personal/rakshit_aralimatti_sandlogic_com/EUMb2HjZoHlGqnExXhwB0noB-ckpZXRk8Y2piV7ROxKzVg?e=X1i7Zv)  | 5 bit         | 16.07 GB      | 5.34 GB        |
 | Llama3-Hindi-8B          | [Click here](https://sandlogic0-my.sharepoint.com/:u:/g/personal/rakshit_aralimatti_sandlogic_com/EYmOS-jf5U5AkqDqguD3DpMBD0Xc2iAFkR1hnB2kTDcplg?e=2lu6SP)  | 4 bit         | 16.07 GB      | 4.58 GB        |
 
-## Model Performance Comparison
-![Model Performance Comparison](Images/model_performance_comparison.png)
 
-This  graph provides a comparative analysis of model performance across different metrics, including raw and optimized inference times, as well as token generation rates. The inference was conducted on a Tesla T4 GPU with the task of generating 600 tokens for a storytelling application. The bar graph highlights the efficiency improvements and token generation capabilities of each model, offering valuable insights into their relative performance.
 
 
 
