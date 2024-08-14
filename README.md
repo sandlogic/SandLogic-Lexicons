@@ -117,12 +117,6 @@ We would like to express our gratitude to the following projects and organizatio
 
 5. [Microsoft Research](https://www.microsoft.com/en-us/research/) - For their work on the Phi-3 model, furthering the capabilities of smaller, more efficient language models.
 
-6. [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - For providing Python bindings to llama.cpp, enabling easy integration and inference in Python environments.
-
-7. [NTQAI](https://ntq.com.vn/): For developing the Nxcode-CQ-7B-orpo model, advancing AI-assisted coding capabilities.
-
-8. [M42 Health AI Team](https://m42.ae/): For creating the Llama3-Med42-8B model, expanding access to medical knowledge through AI.
-
-9. [Cognitive-Lab](https://www.cognitivelab.in/): For producing the LLama3-Gaja-Hindi-8B-v0.1 model, pushing the boundaries of bilingual English/Hindi AI technologies.
+Further acknowledgments can be found in the [ACKNOWLEDGMENTS](Acknowledgements.md) file.
 
 These projects have been instrumental in our work, and we are thankful for their contributions to the open-source AI community.
