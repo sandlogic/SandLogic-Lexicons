@@ -124,7 +124,6 @@ We would like to express our gratitude to the following projects and organizatio
 
 5. [Microsoft Research](https://www.microsoft.com/en-us/research/) - For their work on the Phi-3 model, furthering the capabilities of smaller, more efficient language models.
 
-Further acknowledgments can be found in the [ACKNOWLEDGMENTS](Acknowledgements.md) file.
 
 These projects have been instrumental in our work, and we are thankful for their contributions to the open-source AI community.
 
