@@ -66,21 +66,21 @@ This document provides a comparison of various quantized models, detailing their
 
 | Models                   | Bits          | Original size | Quantized size | Download Links    |
 |--------------------------|----------|---------------|---------------|----------------|
-| Meta-Llama-3-8B-Instruct |  5 bit         | 16 GB         | 5.73 GB        | [Click here](https://sandlogic0-my.sharepoint.com/:u:/g/personal/rakshit_aralimatti_sandlogic_com/ESpFRPYv0gtOgf0Racp_9OABpYXSyIhgbzdESgqc7THCvg?e=18J8y7)       |
-| Meta-Llama-3-8B-Instruct | Imatrix 4 bit | 16 GB         | 4.45 GB        | [Click here](https://sandlogic0-my.sharepoint.com/:u:/g/personal/rakshit_aralimatti_sandlogic_com/EfuowO5pD_1CrS8GIIxPl3sBJ-UaBn-JEWBMtJuhzlIcKw?e=gGqjlz) |
-| Meta-Llama-3-8B-Instruct |  4 bit         | 16 GB         | 4.92 GB        | [Click here](https://sandlogic0-my.sharepoint.com/:u:/g/personal/rakshit_aralimatti_sandlogic_com/EfIt1HwWyRlGhPwX8UGQJJUBuVB69A-UAaDo84gRPqlbBw?e=G9Eexx)       |
-| Phi-3-mini-4k-instruct   |  5 bit         | 8 GB          | 2.82 GB        | [Click here](https://sandlogic0-my.sharepoint.com/:u:/g/personal/rakshit_aralimatti_sandlogic_com/EeqcdqjF041KoimJACBA1mUBZaZlk1G-PmRwVxKInhJ8Xw?e=KUWAL5)       |
-| Phi-3-mini-4k-instruct   |  Imatrix 4 bit | 8 GB          | 2.06 GB        | [Click here](https://sandlogic0-my.sharepoint.com/:u:/g/personal/rakshit_aralimatti_sandlogic_com/EUlhoZQwxtdAty7DCdZOjFgBZltj1xcoYe_1_5GsqBN50g?e=6yOVRD) |
-| Phi-3-mini-4k-instruct   |  4 bit         | 8 GB          | 2.39 GB        | [Click here](https://sandlogic0-my.sharepoint.com/:u:/g/personal/rakshit_aralimatti_sandlogic_com/EVpJTjph6FRFupV8ahyhWS8BWjFK87ufRFMteTRvUdHsrg?e=3ITIRn)       |
-| Gemma-2-9b-it            |  5 bit         | 19 GB         | 6.65 GB        | [Click here](https://sandlogic0-my.sharepoint.com/:u:/g/personal/rakshit_aralimatti_sandlogic_com/EWc0YMTTtYNGuNElvvShu0cBmeardml8yKkZ9L5ElPlA7A?e=wJdQoJ)       |
-| Gemma-2-9b-it            | Imatrix 4 bit | 19 GB         | 5.76 GB        | [Click here](https://sandlogic0-my.sharepoint.com/:u:/g/personal/rakshit_aralimatti_sandlogic_com/EevURY_Vz25DqdbTFJJpvfcBmEo35Ez7t4Lm1XLGUj1Q_g?e=0qKWiU) |
-| Gemma-2-9b-it            |  4 bit         | 19 GB         | 5.18 GB        | [Click here](https://sandlogic0-my.sharepoint.com/:u:/g/personal/rakshit_aralimatti_sandlogic_com/EQeFSWyfTiBHjansoeYQzxUBQbIH5SEYpNJJHWb8vztIkw?e=6FbSwc)       |
-| Nxcode-CQ-7B-orpo        |  5 bit         | 14.5 GB       | 5.43 GB        | [Click here](https://sandlogic0-my.sharepoint.com/:u:/g/personal/rakshit_aralimatti_sandlogic_com/EUOJzCo1h7RJg4IGszZJOKABL7fHOasUf3nfuHof28rNRg?e=iaOMoQ)  |
-| Nxcode-CQ-7B-orpo        |  4 bit         | 14.5 GB       | 4.74 GB        | [Click here](https://sandlogic0-my.sharepoint.com/:u:/g/personal/rakshit_aralimatti_sandlogic_com/EXVWLAH1o-RGlJYEQkhEqj0B6Xp47IRGNvX43xR5AY1L-g?e=S12pMM)  |
-| Llama3-Med42-8B          |  5 bit         | 16.07 GB      | 5.34 GB        | [Click here](https://sandlogic0-my.sharepoint.com/:u:/g/personal/rakshit_aralimatti_sandlogic_com/Ea7NUHUk-89CjGwgSMgTzKQBxP6azT-ruMi_srVURJbgRg?e=u0Evnn)  |
-| Llama3-Med42-8B          |  4 bit         | 16.07 GB      | 4.58 GB        | [Click here](https://sandlogic0-my.sharepoint.com/:u:/g/personal/rakshit_aralimatti_sandlogic_com/EcxEdHD_yR1EtqZc_4vq1LQBdhpSUXWSqTqGdlEyONtGcA?e=K1Zrel)  |
-| Llama3-Hindi-8B          |  5 bit         | 16.07 GB      | 5.34 GB        | [Click here](https://sandlogic0-my.sharepoint.com/:u:/g/personal/rakshit_aralimatti_sandlogic_com/EUMb2HjZoHlGqnExXhwB0noB-ckpZXRk8Y2piV7ROxKzVg?e=X1i7Zv)  |
-| Llama3-Hindi-8B          |  4 bit         | 16.07 GB      | 4.58 GB        | [Click here](https://sandlogic0-my.sharepoint.com/:u:/g/personal/rakshit_aralimatti_sandlogic_com/EYmOS-jf5U5AkqDqguD3DpMBD0Xc2iAFkR1hnB2kTDcplg?e=2lu6SP)  |
+| Meta-Llama-3-8B-Instruct |  5 bit         | 16 GB         | 5.73 GB        | [Click here](https://huggingface.co/SandLogicTechnologies/Meta-Llama-3-8B-Instruct-GGUF/blob/main/Meta-Llama-3-8B-Instruct.Q5_K_M.gguf)       |
+| Meta-Llama-3-8B-Instruct | Imatrix 4 bit | 16 GB         | 4.45 GB        | [Click here](https://huggingface.co/SandLogicTechnologies/Meta-Llama-3-8B-Instruct-GGUF/blob/main/Meta-Llama-3-8B-Instruct.IQ4_XS.gguf) |
+| Meta-Llama-3-8B-Instruct |  4 bit         | 16 GB         | 4.92 GB        | [Click here](https://huggingface.co/SandLogicTechnologies/Meta-Llama-3-8B-Instruct-GGUF/blob/main/Meta-Llama-3-8B-Instruct.Q4_K_M.gguf)       |
+| Phi-3-mini-4k-instruct   |  5 bit         | 8 GB          | 2.82 GB        | [Click here](https://huggingface.co/SandLogicTechnologies/Phi-3.1-mini-4k-instruct-GGUF/blob/main/Phi-3.1-mini-4k-instruct-Q5_K_M.gguf)       |
+| Phi-3-mini-4k-instruct   |  Imatrix 4 bit | 8 GB          | 2.06 GB        | [Click here](https://huggingface.co/SandLogicTechnologies/Phi-3.1-mini-4k-instruct-GGUF/blob/main/Phi-3.1-mini-4k-instruct-IQ4_XS.gguf) |
+| Phi-3-mini-4k-instruct   |  4 bit         | 8 GB          | 2.39 GB        | [Click here](https://huggingface.co/SandLogicTechnologies/Phi-3.1-mini-4k-instruct-GGUF/blob/main/Phi-3.1-mini-4k-instruct-Q4_K_M.gguf)       |
+| Gemma-2-9b-it            |  5 bit         | 19 GB         | 6.65 GB        | [Click here](https://huggingface.co/SandLogicTechnologies/Gemma-2-9b-it-GGUF/blob/main/gemma-2-9b-it-Q5_K_M.gguf)       |
+| Gemma-2-9b-it            | Imatrix 4 bit | 19 GB         | 5.76 GB        | [Click here](https://huggingface.co/SandLogicTechnologies/Gemma-2-9b-it-GGUF/blob/main/gemma-2-9b-it-IQ4_XS.gguf) |
+| Gemma-2-9b-it            |  4 bit         | 19 GB         | 5.18 GB        | [Click here](https://huggingface.co/SandLogicTechnologies/Gemma-2-9b-it-GGUF/blob/main/gemma-2-9b-it-Q4_K_M.gguf)       |
+| Nxcode-CQ-7B-orpo        |  5 bit         | 14.5 GB       | 5.43 GB        | [Click here](https://huggingface.co/SandLogicTechnologies/Nxcode-CQ-7B-orpo-GGUF/blob/main/Nxcode-CQ-7B-orpo-Q5_K_M.gguf)  |
+| Nxcode-CQ-7B-orpo        |  4 bit         | 14.5 GB       | 4.74 GB        | [Click here](https://huggingface.co/SandLogicTechnologies/Nxcode-CQ-7B-orpo-GGUF/blob/main/Nxcode-CQ-7B-orpo-Q4_K_M.gguf)  |
+| Llama3-Med42-8B          |  5 bit         | 16.07 GB      | 5.34 GB        | [Click here](https://huggingface.co/SandLogicTechnologies/Llama3-Med42-8B-GGUF/blob/main/Llama3-Med42-8B-Q5_K_M.gguf)  |
+| Llama3-Med42-8B          |  4 bit         | 16.07 GB      | 4.58 GB        | [Click here](https://huggingface.co/SandLogicTechnologies/Llama3-Med42-8B-GGUF/blob/main/Llama3-Med42-8B-Q4_K_M.gguf)  |
+| Llama3-Hindi-8B          |  5 bit         | 16.07 GB      | 5.34 GB        | [Click here](https://huggingface.co/SandLogicTechnologies/LLama3-Gaja-Hindi-8B-GGUF/blob/main/LLama3-Gaja-Hindi-8B-v0.1-Q5_K_M.gguf)  |
+| Llama3-Hindi-8B          |  4 bit         | 16.07 GB      | 4.58 GB        | [Click here](https://huggingface.co/SandLogicTechnologies/LLama3-Gaja-Hindi-8B-GGUF/blob/main/llama3-gaja-hindi-8b-v0.1.Q4_K_M.gguf)  |
 
 
 
