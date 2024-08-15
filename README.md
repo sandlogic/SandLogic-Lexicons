@@ -110,7 +110,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Contact
 
-For any inquiries or support, please contact us at support@sandlogic.com or visit our [Website](https://www.sandlogic.com/contact-us/). 
+For any inquiries or support, please contact us at support@sandlogic.com or visit our [Website](https://www.sandlogic.com/). 
 ## Acknowledgments
 
 We would like to express our gratitude to the following projects and organizations for their invaluable contributions to the field of AI and for making their work available to the community:
