@@ -95,6 +95,14 @@ This document provides a comparison of various quantized models, detailing their
 Our Model Zoo supports efficient inference using the `llama-cpp-python` package. This allows you to run our quantized models on both CPU and GPU with minimal setup.
 
 For detailed instructions on installation, usage examples, and advanced configurations, please refer to our [Inference Guide](Scripts/Inference.md).
+### Quick Start with Ollama
+
+Experience the power of our quantized models with just a single line of code using Ollama. Access our optimized models at:
+
+[https://ollama.com/SL-Lexicons](https://ollama.com/SL-Lexicons)
+
+Run any of our quantized models effortlessly and explore their capabilities within seconds!
+
 ## License
 
 This repository and all its contents are licensed under the [MIT License](https://opensource.org/licenses/MIT). By using the SandLogic Lexicons, you agree to the terms and conditions of this license. 
