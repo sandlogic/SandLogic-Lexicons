@@ -64,7 +64,8 @@ This  graph provides a comparative analysis of model performance across differen
 ## Models 
 
 
-This document provides a comparison of various quantized models, detailing their bit configurations, original sizes, and quantized sizes.
+This table provides a comparison of various quantized models, detailing their bit configurations, original sizes, token/second, and quantized sizes.
+The token/second has been calculated on a task for generating 512 tokens on an Nvidia GeForce RTX 2060.
 
 | Models                   | Bits          | Original size | Quantized size | Token/second | Download Links                                                                                                                          |
 |--------------------------|---------------|---------------|----------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------|
