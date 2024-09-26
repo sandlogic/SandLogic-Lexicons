@@ -55,6 +55,7 @@ To know about the models considered for quantization you can click on the below 
 6. [Llama3-Hindi-8B](Models/LLama3-Gaja-Hindi-8B/GajaHindi.md)
 7. [SmolLM-1.7B-Instruct](Models/SmolLM-1.7B-Instruct/Smollm1.7b.md)
 8. [Llama-3-sqlcoder-8b](Models/Llama-3-sqlcoder-8b/llama3Sqlcoder.md)
+9. [Llama-3.2-3B-Instruct](Models/Llama3.2-3B-Instruct/Llama3.2-3B.md)
 
 ## Model Performance Comparison
 ![Model Performance Comparison](Images/model_performance_comparison.png)
@@ -89,6 +90,9 @@ The token/second has been calculated on a task for generating 512 tokens on an N
 | SmolLM-1.7B-Instruct     | 4 bit         | 3.42 GB       | 1.06 GB        | 144          | [Click here](https://huggingface.co/SandLogicTechnologies/SmolLM-1.7B-Instruct-GGUF/blob/main/SmolLM-1.7B-Instruct.Q4_K_M.gguf)         |
 | Llama-3-Sqlcoder-8B      | 5 bit         | 16 GB         | 5.73 GB        | 37           | [Click here](https://huggingface.co/SandLogicTechnologies/Llama-3-Sqlcoder-8B-GGUF/blob/main/llama-3-sqlcoder-8b.Q5_K_M.gguf)           |
 | Llama-3-Sqlcoder-8B      | 4 bit         | 16 GB         | 4.92 GB        | 37           | [Click here](https://huggingface.co/SandLogicTechnologies/Llama-3-Sqlcoder-8B-GGUF/blob/main/llama-3-sqlcoder-8b.Q4_K_M.gguf)           |
+| Llama-3.2-3B-Instruct    | 5 bit         | 6.44 GB       | 2.32 GB        | 77           | [Click here](https://huggingface.co/SandLogicTechnologies/Llama-3.2-3B-Instruct-GGUF/blob/main/Llama-3.2-3B-Instruct-Q5_K_M.gguf)           |
+| Llama-3.2-3B-Instruct    | 4 bit         | 6.44 GB       | 2.02 GB        | 86           | [Click here](https://huggingface.co/SandLogicTechnologies/Llama-3.2-3B-Instruct-GGUF/blob/main/Llama-3.2-3B-Instruct-Q4_K_M.gguf)           |
+| Llama-3.2-3B-Instruct    | Imatrix 4 bit | 6.44 GB       | 1.83 GB        | 78           | [Click here](https://huggingface.co/SandLogicTechnologies/Llama-3.2-3B-Instruct-GGUF/blob/main/Llama-3.2-3B-Instruct-IQ4_XS.gguf)           |
 
 
 
