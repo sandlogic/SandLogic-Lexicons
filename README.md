@@ -56,6 +56,7 @@ To know about the models considered for quantization you can click on the below 
 7. [SmolLM-1.7B-Instruct](Models/SmolLM-1.7B-Instruct/Smollm1.7b.md)
 8. [Llama-3-sqlcoder-8b](Models/Llama-3-sqlcoder-8b/llama3Sqlcoder.md)
 9. [Llama-3.2-3B-Instruct](Models/Llama3.2-3B-Instruct/Llama3.2-3B.md)
+10. [Llama3.2-1B-Medical](Models/Llama-3.2-1B-Instruct-Medical/Llama3.2-medical.md)
 
 ## Model Performance Comparison
 ![Model Performance Comparison](Images/model_performance_comparison.png)
@@ -93,6 +94,8 @@ The token/second has been calculated on a task for generating 512 tokens on an N
 | Llama-3.2-3B-Instruct    | 5 bit         | 6.44 GB       | 2.32 GB        | 77           | [Click here](https://huggingface.co/SandLogicTechnologies/Llama-3.2-3B-Instruct-GGUF/blob/main/Llama-3.2-3B-Instruct-Q5_K_M.gguf)           |
 | Llama-3.2-3B-Instruct    | 4 bit         | 6.44 GB       | 2.02 GB        | 86           | [Click here](https://huggingface.co/SandLogicTechnologies/Llama-3.2-3B-Instruct-GGUF/blob/main/Llama-3.2-3B-Instruct-Q4_K_M.gguf)           |
 | Llama-3.2-3B-Instruct    | Imatrix 4 bit | 6.44 GB       | 1.83 GB        | 78           | [Click here](https://huggingface.co/SandLogicTechnologies/Llama-3.2-3B-Instruct-GGUF/blob/main/Llama-3.2-3B-Instruct-IQ4_XS.gguf)           |
+| Llama-3.2-1B-Instruct-Medical  | 5 bit     | 2.47 GB     | 912 MB         |   168        | [Click here](https://huggingface.co/SandLogicTechnologies/Llama-3.2-1B-Instruct-Medical-GGUF/blob/main/Llama3.2-1B-Medical-Q5_KM.gguf)           |
+| Llama-3.2-1B-Instruct-Medical    | 4 bit   | 2.47 GB     | 808 MB         |  178         | [Click here](https://huggingface.co/SandLogicTechnologies/Llama-3.2-1B-Instruct-Medical-GGUF/blob/main/Llama3.2-1B-Medical-Q4_KM.gguf)           |
 
 
 
