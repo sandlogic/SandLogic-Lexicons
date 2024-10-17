@@ -113,6 +113,40 @@ Experience the power of our quantized models with just a single line of code usi
 
 Run any of our quantized models effortlessly and explore their capabilities within seconds!
 
+### 🚀 Run Lexicons Models with Ollama
+
+Now you can run any of our Lexicons models from Hugging Face directly using Ollama! Experience state-of-the-art language models with minimal setup.
+
+#### 🌟 Quick Start
+
+Running our models is as simple as:
+
+```bash
+ollama run hf.co/SandLogicTechnologies/{repository}:{quantization}
+```
+
+
+Here are some models you can try right away:
+
+### Medical Domain Model
+```bash
+ollama run hf.co/SandLogicTechnologies/Llama-3.2-1B-Instruct-Medical-GGUF:Q4_KM
+```
+Specialized for medical conversations and healthcare-related tasks.
+
+### Meta Llama 3 Instruct
+```bash
+ollama run hf.co/SandLogicTechnologies/Meta-Llama-3-8B-Instruct-GGUF:Q5_K_M
+```
+General-purpose instruction-following model based on Meta's Llama 3 architecture.
+
+### Hindi Language Model
+```bash
+ollama run hf.co/SandLogicTechnologies/LLama3-Gaja-Hindi-8B-GGUF:Q5_K_M
+```
+Optimized for Hindi language understanding and generation.
+
+
 ## License
 
 This repository and all its contents are licensed under the [MIT License](https://opensource.org/licenses/MIT). By using the SandLogic Lexicons, you agree to the terms and conditions of this license. 
