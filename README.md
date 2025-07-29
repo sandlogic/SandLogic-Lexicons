@@ -57,7 +57,7 @@ To know about the models considered for quantization you can click on the below 
 8. [Llama-3-sqlcoder-8b](Models/Llama-3-sqlcoder-8b/llama3Sqlcoder.md)
 9. [Llama-3.2-3B-Instruct](Models/Llama3.2-3B-Instruct/Llama3.2-3B.md)
 10. [Llama3.2-1B-Medical](Models/Llama-3.2-1B-Instruct-Medical/Llama3.2-medical.md)
-11. [`MedGemma-4B-IT`](Models/MedGemma-4B-it/Readme.md).
+11. [MedGemma-4B-IT](Models/MedGemma-4B-it/Readme.md).
 
 ## Model Performance Comparison
 ![Model Performance Comparison](Images/model_performance_comparison.png)
