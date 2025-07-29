@@ -9,8 +9,9 @@ This repository provides **quantized GGUF** versions of the `google/medgemma-4b-
 ## Model Overview
 
 - **Original Model**: [`google/medgemma-4b-it`](https://huggingface.co/google/medgemma-4b-it)
+- **Quantized Model Hugging Face Link**: [`SandLogicTechnologies/MedGemma-4B-IT-GGUF`](https://huggingface.co/SandLogicTechnologies/MedGemma-4B-IT-GGUF).
 - **Quantized Versions**:  
-  - `Q4_K_M` – 4-bit quantization (~2.3 GB)  
+  - `Q4_K_M` – 4-bit quantization (~2.3 GB)
   - `Q5_K_M` – 5-bit quantization (~2.6 GB)  
 - **Architecture**: Decoder-only Transformer (based on Gemma) + SigLIP Vision Encoder  
 - **Base Model**: `google/gemma-3-4b-pt`  
